@@ -17,3 +17,7 @@ nav ul li{
 nav ul {
     text-align: right;
 }
+
+body {
+    background-color: rgb(38, 38, 141);
+}
